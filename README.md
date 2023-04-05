@@ -1,0 +1,7 @@
+# Online Food Ordering Website
+
+The aim of this project is to provide a platform where the restaurant can put there delicious food with different plans for example monthly, quarterly, and yearly bases. Customer can login and select the food plan according to their needs. Customers who have taken the plans can add review to restaurant for their food. This can help new customer to choose the plan accordingly.
+
+## Conclusion
+
+Online Food Ordering system is done to help and solve one of the important problems of  customer. Because Large number of customer can use the internet and phone. Various  issues  related to Mess/Tiffin Service will be solved by these system. Thus, implementation of Online Food Ordering system is done to help and solve one of the important problems of customer. It  helps customer in making order easily and gives information needed in making order to customer place. This project can later be expanded on a larger scale. It is developed for restaurants to simplify their routine managerial and operational task and to improve the food experience of the clients. This also helps the restaurant owners develop healthy customer relationships by providing reasonably good services. The system also enables the restaurant to know the items available in real time and make changes to their food and beverage inventory based on the orders placed and the orders completed. The Food website application made for restaurant massive one help to receiving orders.
